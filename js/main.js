@@ -1,39 +1,15 @@
 const teachers = [
   {
-    img: './imgs/teacher1.png',
-    name: 'Albert Noah',
-    position: 'Professional UI & UX Designer',
-    description: 'He is one of the most professional UI & UX designers in the world. He worked in google',
+    img: './imgs/test2.png',
+    name: 'Benaslin jenner',
+    position: 'Software Developer Lead',
+    description: 'Workig in IT',
   },
   {
-    img: './imgs/teacher2.png',
-    name: 'Mohamed Omar',
+    img: './imgs/test1.png',
+    name: 'Prasanna',
     position: 'Professional Front-End Developer',
     description: 'He is one of the most professional front end developers in the world. He worked in google',
-  },
-  {
-    img: './imgs/teacher3.png',
-    name: 'Sara Esmail',
-    position: 'Professional Back-End Developer',
-    description: 'He is one of the most professional back end developers in the world. He worked in amazon',
-  },
-  {
-    img: './imgs/teacher4.png',
-    name: 'Jain Noah',
-    position: 'Professional Full-Stack Developer',
-    description: 'She is one of the most professional full stach developers in the world. He worked in facebook',
-  },
-  {
-    img: './imgs/teacher5.png',
-    name: 'Maria Mosa',
-    position: 'Professional Full-Stack Developer',
-    description: 'she is one of the most professional full stach developers in the world. He worked in facebook',
-  },
-  {
-    img: './imgs/teacher6.png',
-    name: 'Ahmed Omar',
-    position: 'Professional Full-Stack Developer',
-    description: 'He is one of the most professional ffull stach developers in the world. He worked in google',
   },
 ];
 
